@@ -15,4 +15,10 @@ Use:
 5. Copy and paste the altered code into an ArcGIS Pro Python window or run in your favorite Python IDE which is pointing to the ArcPro Python interpreter.
 
 
+
+Here is a river feature class divided into 1000m sections and attributed with increasing values from the start feature.
 ![image](https://user-images.githubusercontent.com/68295520/157117516-f60d6d96-107d-42a7-95b6-44f87e39fa60.png)
+
+
+The tool will handle branches as well where each branch values is the count away from the source feature.
+![image](https://user-images.githubusercontent.com/68295520/157117861-a42c1bbe-db7c-40b5-b71c-2d202da28ae9.png)
